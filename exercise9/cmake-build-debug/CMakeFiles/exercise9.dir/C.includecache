@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kurt/CLionProjects/C_Primer_Chapter14/exercise9/main.c
+stdio.h
+-
+ctype.h
+-
+string.h
+-
+stdlib.h
+-
+stdbool.h
+-
+seat_reservation.h
+C:/Users/Kurt/CLionProjects/C_Primer_Chapter14/exercise9/seat_reservation.h
+my_io.h
+C:/Users/Kurt/CLionProjects/C_Primer_Chapter14/exercise9/my_io.h
+
+C:/Users/Kurt/CLionProjects/C_Primer_Chapter14/exercise9/my_io.c
+stdio.h
+-
+my_io.h
+C:/Users/Kurt/CLionProjects/C_Primer_Chapter14/exercise9/my_io.h
+
+C:/Users/Kurt/CLionProjects/C_Primer_Chapter14/exercise9/my_io.h
+
+C:/Users/Kurt/CLionProjects/C_Primer_Chapter14/exercise9/seat_reservation.h
+
