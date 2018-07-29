@@ -1,0 +1,3 @@
+C:/Users/Kurt/CLionProjects/C_Primer_Chapter14/exercise3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kurt/CLionProjects/C_Primer_Chapter14/exercise3/cmake-build-debug/CMakeFiles/exercise3.dir
+C:/Users/Kurt/CLionProjects/C_Primer_Chapter14/exercise3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
