@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kurt/CLionProjects/C_Primer_Chapter14/exercise6/baseball_player.h
+stdlib.h
+-
+stdio.h
+-
+
+C:/Users/Kurt/CLionProjects/C_Primer_Chapter14/exercise6/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+baseball_player.h
+C:/Users/Kurt/CLionProjects/C_Primer_Chapter14/exercise6/baseball_player.h
+
